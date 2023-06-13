@@ -20,7 +20,7 @@ $ npx create-react-app 프로젝트이름
 $ cd 프로젝트 폴더
 $ npm start
 ```
-- http://localhost:300 에서 프론트엔드 서버 실행
+- http://localhost:3000 에서 프론트엔드 서버 실행
 
 
 
